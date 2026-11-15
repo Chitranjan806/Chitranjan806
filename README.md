@@ -7,13 +7,13 @@ Edit the text below as your role, research, and projects evolve.
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123D4A,100:14B8A6&amp;height=150&amp;section=header" alt="Navy and teal wave banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=header&reversal=false&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%21%F0%9F%99%8F&textBg=false&fontSize=42&fontAlign=52&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Namaste is a traditional Sanskrit greeting and gesture meaning [I bow to you] or [I honor the divine within you]" />
 </p>
 
 <h1 align="center">Hi, I'm Chitranjan Gupta 👋</h1>
 
 <p align="center">
-  <strong>Data Analytics · Business Intelligence · Applied Machine Learning</strong>
+  <strong>Data Science  ·  Data Analytics  ·  Business Intelligence  ·  Machine Learning</strong>
 </p>
 
 <p align="center">
@@ -24,23 +24,12 @@ Edit the text below as your role, research, and projects evolve.
   <a href="https://chitranjan806.github.io/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/chitranjan806/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Chitranjan806?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
-</p>
+</p><p align="center"><sub>Based in <b>Trier, Germany</b>  ·  Working in <b>Luxembourg</b></sub></p><p align="center"></p>
 
-<p align="center"><sub>🇩🇪 Based in Germany · 🇱🇺 Working in Luxembourg · Curious about what data can explain</sub></p>
-
-<p align="center">
-  <a href="#-a-little-about-me">About</a> ·
-  <a href="#-selected-projects">Projects</a> ·
-  <a href="#-skills--toolbox">Skills</a> ·
-  <a href="#-github-activity">Activity</a> ·
-  <a href="#-lets-connect">Connect</a>
-</p>
-
----
 
 ## 🧭 A little about me
 
-I'm an **Analyst in Global Analytics & Insights** with experience in employee benefits and insurance, and an **M.Sc. Data Science student at Universität Trier**.
+I'm an **Analyst in Global Analytics & Insights** department with experience in employee benefits and insurance, and an **M.Sc. Data Science student at Universität Trier**.
 
 My work sits where data, people, and processes meet: analysing business performance, building useful reporting, automating recurring work, and helping stakeholders turn findings into decisions.
 
@@ -49,31 +38,7 @@ My work sits where data, people, and processes meet: analysing business performa
 - 🔬 **Research focus:** the role of language and native language in code generation with LLMs.
 - 📸 **Beyond the screen:** drone photography and finding a different perspective.
 
-## 🚀 Selected projects
-
-### ⚡ 01 / Energy price forecasting
-
-Exploring energy-price forecasting through an academic data science project, using hourly observations from January 2023 to October 2024.
-
-`Time series` `Forecasting` `Data analysis`
-
-[Explore the repository →](https://github.com/Chitranjan806/Energy-Prices-Forecasting)
-
-### 🎯 02 / Credit card customer segmentation
-
-Grouping customers to support more relevant marketing strategies. The analysis uses **K-means clustering** and **silhouette scores** to compare cluster configurations and identifies four distinct customer groups.
-
-`Unsupervised learning` `Customer analytics` `K-means`
-
-[Explore the repository →](https://github.com/Chitranjan806/Credit_Card_Customer_Segmentation)
-
-### 🛡️ 03 / On-time insurance premium deposits
-
-Predicting timely premium payments by policyholders: an insurance analytics project connecting predictive modelling with a practical business question.
-
-`Insurance analytics` `Predictive modelling` `CatBoost`
-
-[Explore the repository →](https://github.com/Chitranjan806/Predicting-On-Time-Premium-Deposits)
+<br>
 
 ## 🧰 Skills & toolbox
 
@@ -125,7 +90,7 @@ Writing analysis code, working with repositories, and translating business quest
 
 </details>
 
-<details>
+<details open>
 <summary><strong>☁️ Data engineering & cloud</strong></summary>
 
 <p>
@@ -139,7 +104,7 @@ Writing analysis code, working with repositories, and translating business quest
 
 </details>
 
-<details>
+<details open>
 <summary><strong>⚙️ Automation & collaboration</strong></summary>
 
 <p>
@@ -167,6 +132,29 @@ Writing analysis code, working with repositories, and translating business quest
 
 </details>
 
+<br>
+
+## 🚀 Selected projects
+
+### ⚡ Energy price forecasting
+
+Exploring energy-price forecasting through an academic data science project, using hourly observations from January 2023 to October 2024.
+
+`Time series` `Forecasting` `Data analysis`
+
+[Explore the repository →](https://github.com/Chitranjan806/Energy-Prices-Forecasting)
+
+
+### 🛡️ On-time insurance premium deposits
+
+Predicting timely premium payments by policyholders: an insurance analytics project connecting predictive modelling with a practical business question.
+
+`Insurance analytics` `Predictive modelling` `CatBoost`
+
+[Explore the repository →](https://github.com/Chitranjan806/Predicting-On-Time-Premium-Deposits)
+
+<br>
+
 ## 📈 GitHub activity
 
 <p align="center">
@@ -182,6 +170,7 @@ Writing analysis code, working with repositories, and translating business quest
 </p>
 <p><sub>These cards reflect public GitHub activity. Repository language counts describe the code here, not proficiency or the full scope of my professional work.</sub></p>
 </details>
+
 
 ## 🤝 Let's connect
 
