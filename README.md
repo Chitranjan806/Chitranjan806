@@ -29,7 +29,7 @@ Edit the text below as your role, research, and projects evolve.
 
 ## 🧭 A little about me
 
-I'm an **Analyst in Global Analytics & Insights** department with experience in employee benefits and insurance, and an **M.Sc. Data Science student at Universität Trier**.
+I’m an **Analyst at Redion EB**, working across business analytics, reporting, and process improvement, and an **M.Sc. Data Science student at Universität Trier**.
 
 My work sits where data, people, and processes meet: analysing business performance, building useful reporting, automating recurring work, and helping stakeholders turn findings into decisions.
 
