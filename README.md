@@ -7,13 +7,13 @@ Edit the text below as your role, research, and projects evolve.
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123D4A,100:14B8A6&amp;height=150&amp;section=header" alt="Navy and teal wave banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=header&reversal=false&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%21%F0%9F%99%8F&textBg=false&fontSize=50&fontAlign=52&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Namaste is a traditional Sanskrit greeting and gesture meaning [I bow to you] or [I honor the divine within you]" />
 </p>
 
 <h1 align="center">Hi, I'm Chitranjan Gupta 👋</h1>
 
 <p align="center">
-  <strong>Data Analytics · Business Intelligence · Applied Machine Learning</strong>
+  <strong>Data Science · Data Analytics · Business Intelligence · Machine Learning</strong>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Edit the text below as your role, research, and projects evolve.
 
 ## A little about me
 
-I'm an **Analyst in Global Analytics & Insights** with experience in employee benefits and insurance, and an **M.Sc. Data Science student at Universität Trier**.
+I'm an **Analyst in Global Analytics & Insights** department with experience in employee benefits and insurance, and an **M.Sc. Data Science student at Universität Trier**.
 
 My work sits where data, people, and processes meet: analysing business performance, building useful reporting, automating recurring work, and helping stakeholders turn findings into decisions.
 
