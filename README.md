@@ -153,7 +153,7 @@ Predicting timely premium payments by policyholders: an insurance analytics proj
 
 [Explore the repository →](https://github.com/Chitranjan806/Predicting-On-Time-Premium-Deposits)
 
-<br>
+<!--
 
 ## 📈 GitHub activity
 
@@ -170,7 +170,8 @@ Predicting timely premium payments by policyholders: an insurance analytics proj
 </p>
 <p><sub>These cards reflect public GitHub activity. Repository language counts describe the code here, not proficiency or the full scope of my professional work.</sub></p>
 </details>
-
+-->
+<br>
 
 ## 🤝 Let's connect
 
