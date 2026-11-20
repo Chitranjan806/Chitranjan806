@@ -7,7 +7,7 @@ Edit the text below as your role, research, and projects evolve.
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=header&reversal=false&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%21%F0%9F%99%8F&textBg=false&fontSize=42&fontAlign=52&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Namaste is a traditional Sanskrit greeting and gesture meaning [I bow to you] or [I honor the divine within you]" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=header&reversal=false&text=NAMASTE+%21%F0%9F%99%8F&textBg=false&fontSize=32&fontAlign=52&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Namaste is a traditional Sanskrit greeting and gesture meaning [I bow to you] or [I honor the divine within you]" />
 </p>
 
 <h1 align="center">Hi, I'm Chitranjan Gupta 👋</h1>
